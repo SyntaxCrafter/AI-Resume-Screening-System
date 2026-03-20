@@ -33,5 +33,3 @@ Because the entire application runs natively in the browser without a backend, r
 ## Privacy & Security Context
 This tool guarantees ultimate candidate privacy. By bypassing traditional cloud AI endpoints, all files you upload are converted to text inside your own browser tab's sandbox memory. No files or resulting text are ever cached or sent to external servers.
 
----
-*Built with ❤️ for better, faster hiring.*
